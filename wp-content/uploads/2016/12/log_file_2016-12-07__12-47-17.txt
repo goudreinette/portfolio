@@ -1,0 +1,122 @@
+
+---Downloaded files---
+The import files for: Main Demo were successfully downloaded!
+MAX EXECUTION TIME = 30
+Files info:
+Site URL = http://localhost/portfolio
+Data file = /opt/lampp/htdocs/portfolio/wp-content/uploads/2016/12/demo-content-import-file_2016-12-07__12-47-17.xml
+Widget file = not defined!
+Customizer file = not defined!
+Theme Options file = YTo2NTp7czoxMDoiYmxvZ19zdHlsZSI7czo2OiJzdHlsZTYiO3M6MjE6ImJsb2dfcGFnaW5hdGlvbl9zdHlsZSI7czo2OiJzdHlsZTMiO3M6MTE6Im1lbnVfZm9vdGVyIjtzOjcxOiI8cD7CqSAyMDE2IFdlcmtzdGF0dC4gQWxsIHJpZ2h0cyByZXNlcnZlZC4gPGJyIC8+TWFkZSBieSBGdWVsdGhlbWVzPC9wPiI7czoxMDoibWVudV9zdHlsZSI7czoxMToibWVudV9zdHlsZTEiO3M6MTc6Im1vYmlsZV9tZW51X3N0eWxlIjtzOjY6InN0eWxlMSI7czoxNzoibW9iaWxlX21lbnVfY29sb3IiO3M6NDoiZGFyayI7czoyNjoibW9iaWxlX21lbnVfbGlua19hbmltYXRpb24iO3M6OToibGluay1maWxsIjtzOjExOiJsb2dvX2hlaWdodCI7czowOiIiO3M6NDoibG9nbyI7czowOiIiO3M6MTA6ImxvZ29fbGlnaHQiO3M6MDoiIjtzOjE0OiJwb3J0Zm9saW9fc2x1ZyI7czowOiIiO3M6MTQ6InBvcnRmb2xpb19tYWluIjtzOjA6IiI7czoxMzoicG9ydGZvbGlvX25hdiI7czoyOiJvbiI7czo2OiJmb290ZXIiO3M6Mjoib24iO3M6MTM6ImZvb3Rlcl9lZmZlY3QiO3M6Mjoib24iO3M6MTY6ImZvb3Rlcl9tYXhfd2lkdGgiO3M6Mzoib2ZmIjtzOjE0OiJmb290ZXJfY29sdW1ucyI7czoxMToiZm91cmNvbHVtbnMiO3M6MTI6ImZvb3Rlcl9jb2xvciI7czo0OiJkYXJrIjtzOjEzOiJmb290ZXJfc2hhZG93IjtzOjU6ImhlYXZ5IjtzOjE0OiJjYWxsX3RvX2FjdGlvbiI7czozOiJvZmYiO3M6MTk6ImNhbGxfdG9fYWN0aW9uX3RleHQiO3M6ODk6IiAgICAgICAgCTxoMyBzdHlsZT0iY29sb3I6I2ZmZiI+UmVhZHkgdG8gdGFrZSB5b3VyIFdvcmRQcmVzcyBzaXRlIHRvIHRoZSBuZXh0IGxldmVsPzwvaDM+IjtzOjI3OiJjYWxsX3RvX2FjdGlvbl9idXR0b25fc3R5bGUiO3M6MDoiIjtzOjI3OiJjYWxsX3RvX2FjdGlvbl9idXR0b25fY29sb3IiO3M6NToid2hpdGUiO3M6MjY6ImNhbGxfdG9fYWN0aW9uX2J1dHRvbl90ZXh0IjtzOjEyOiJQdXJjaGFzZSBOb3ciO3M6MjY6ImNhbGxfdG9fYWN0aW9uX2J1dHRvbl9saW5rIjtzOjg3OiJodHRwczovL3RoZW1lZm9yZXN0Lm5ldC9pdGVtL3dlcmtzdGF0dC1jcmVhdGl2ZS1wb3J0Zm9saW8tdGhlbWUvMTc4NzA3OTk/cmVmPWZ1ZWx0aGVtZXMiO3M6OToic3ViZm9vdGVyIjtzOjM6Im9mZiI7czoxOToic3ViZm9vdGVyX21heF93aWR0aCI7czozOiJvZmYiO3M6MTU6InN1YmZvb3Rlcl9jb2xvciI7czo1OiJsaWdodCI7czoxNDoic3ViZm9vdGVyX3RleHQiO3M6MjE6IiZjb3B5OyAyMDE2IFdlcmtzdGF0dCI7czoyMToic3ViZm9vdGVyX3NvY2lhbF9saW5rIjthOjE6e2k6MDthOjI6e3M6MTQ6InNvY2lhbF9uZXR3b3JrIjtzOjg6ImZhY2Vib29rIjtzOjQ6ImhyZWYiO3M6MjE6Imh0dHA6Ly9mdWVsdGhlbWVzLm5ldCI7fX1zOjEyOiJmb250X3N1YnNldHMiO3M6OToibm8tc3Vic2V0IjtzOjEyOiJwcmltYXJ5X3R5cGUiO2E6MTp7czoxMToiZm9udC1mYW1pbHkiO3M6OToiZnV0dXJhLXB0Ijt9czoxNDoic2Vjb25kYXJ5X3R5cGUiO2E6MTp7czoxMToiZm9udC1mYW1pbHkiO3M6NToiS2FybGEiO31zOjExOiJidXR0b25fdHlwZSI7YToxOntzOjExOiJmb250LWZhbWlseSI7czowOiIiO31zOjEwOiJ0eXBla2l0X2lkIjtzOjc6InJ5ZDFjcnUiO3M6MTM6InR5cGVraXRfZm9udHMiO3M6OToiZnV0dXJhLXB0IjtzOjk6ImhlYWRlcl9iZyI7czowOiIiO3M6OToiZm9vdGVyX2JnIjtzOjA6IiI7czoxMjoic3ViZm9vdGVyX2JnIjtzOjA6IiI7czoxMzoibW9iaWxlbWVudV9iZyI7czowOiIiO3M6MTc6ImNhbGxfdG9fYWN0aW9uX2JnIjtzOjA6IiI7czoxMjoiYWNjZW50X2NvbG9yIjtzOjA6IiI7czoyNToiZm9vdGVyX3dpZGdldF90aXRsZV9jb2xvciI7czowOiIiO3M6MTc6ImZvb3Rlcl90ZXh0X2NvbG9yIjtzOjA6IiI7czoxNzoiZm9vdGVyX2xpbmtfY29sb3IiO2E6NTp7czo0OiJsaW5rIjtzOjA6IiI7czo1OiJob3ZlciI7czowOiIiO3M6NjoiYWN0aXZlIjtzOjA6IiI7czo3OiJ2aXNpdGVkIjtzOjA6IiI7czo1OiJmb2N1cyI7czowOiIiO31zOjEyOiJzaXRlX2JvcmRlcnMiO3M6Mzoib2ZmIjtzOjE4OiJzaXRlX2JvcmRlcnNfd2lkdGgiO3M6MDoiIjtzOjE4OiJzaXRlX2JvcmRlcnNfY29sb3IiO3M6MDoiIjtzOjExOiJtdXNpY19zb3VuZCI7czoyOiJvbiI7czoxODoibXVzaWNfc291bmRfdG9nZ2xlIjtzOjI6Im9uIjtzOjE2OiJtdXNpY19zb3VuZF9maWxlIjtzOjA6IiI7czoxMToiY2xpY2tfc291bmQiO3M6Mjoib24iO3M6MTY6ImNsaWNrX3NvdW5kX2ZpbGUiO3M6MDoiIjtzOjIxOiJtZW51X2l0ZW1faG92ZXJfc291bmQiO3M6Mjoib24iO3M6MjY6Im1lbnVfaXRlbV9ob3Zlcl9zb3VuZF9maWxlIjtzOjA6IiI7czoxNToibWVudV9vcGVuX3NvdW5kIjtzOjI6Im9uIjtzOjIwOiJtZW51X29wZW5fc291bmRfZmlsZSI7czowOiIiO3M6MTY6Im1lbnVfY2xvc2Vfc291bmQiO3M6Mjoib24iO3M6MjE6Im1lbnVfY2xvc2Vfc291bmRfZmlsZSI7czowOiIiO3M6MTE6Im1hcF9hcGlfa2V5IjtzOjM5OiJBSXphU3lDaWpVOVd4UUNPWUhTYi1OWlo0OFNjcV9qNTNZMHhnR00iO3M6MTM6InNjcm9sbF90b190b3AiO3M6Mjoib24iO3M6OToiZXh0cmFfY3NzIjtzOjA6IiI7czoxMjoiaW5zdGFncmFtX2lkIjtzOjA6IiI7czoxODoiaW5zdGFncmFtX3VzZXJuYW1lIjtzOjA6IiI7czoyMToiaW5zdGFncmFtX2FjY2Vzc3Rva2VuIjtzOjA6IiI7fQ==
+
+------
+Completed AJAX call number: 1
+[WARNING] Failed to import product_tag black
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag furniture
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag wooden
+[WARNING] Failed to import product_cat Electronics
+[WARNING] Failed to import product_cat Goods
+[WARNING] Failed to import product_cat Kitchen
+[WARNING] Failed to import product_cat Living
+[WARNING] Failed to import product_cat Textiles
+
+
+------
+Completed AJAX call number: 2
+[WARNING] Failed to import product_tag black
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag furniture
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag wooden
+[WARNING] Failed to import product_cat Electronics
+[WARNING] Failed to import product_cat Goods
+[WARNING] Failed to import product_cat Kitchen
+[WARNING] Failed to import product_cat Living
+[WARNING] Failed to import product_cat Textiles
+
+
+------
+Completed AJAX call number: 3
+[WARNING] Failed to import product_tag black
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag furniture
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag wooden
+[WARNING] Failed to import product_cat Electronics
+[WARNING] Failed to import product_cat Goods
+[WARNING] Failed to import product_cat Kitchen
+[WARNING] Failed to import product_cat Living
+[WARNING] Failed to import product_cat Textiles
+
+
+------
+Completed AJAX call number: 4
+[WARNING] Failed to import product_tag black
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag furniture
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag wooden
+[WARNING] Failed to import product_cat Electronics
+[WARNING] Failed to import product_cat Goods
+[WARNING] Failed to import product_cat Kitchen
+[WARNING] Failed to import product_cat Living
+[WARNING] Failed to import product_cat Textiles
+
+
+------
+Completed AJAX call number: 5
+[WARNING] Failed to import product_tag black
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag furniture
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag wooden
+[WARNING] Failed to import product_cat Electronics
+[WARNING] Failed to import product_cat Goods
+[WARNING] Failed to import product_cat Kitchen
+[WARNING] Failed to import product_cat Living
+[WARNING] Failed to import product_cat Textiles
+
+
+------
+Completed AJAX call number: 6
+[WARNING] Failed to import product_tag black
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag furniture
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag wooden
+[WARNING] Failed to import product_cat Electronics
+[WARNING] Failed to import product_cat Goods
+[WARNING] Failed to import product_cat Kitchen
+[WARNING] Failed to import product_cat Living
+[WARNING] Failed to import product_cat Textiles
+
+
+------
+Completed AJAX call number: 7
+[WARNING] Failed to import product_tag black
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_tag furniture
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_tag wooden
+[WARNING] Failed to import product_cat Electronics
+[WARNING] Failed to import product_cat Goods
+[WARNING] Failed to import product_cat Kitchen
+[WARNING] Failed to import product_cat Living
+[WARNING] Failed to import product_cat Textiles
+
