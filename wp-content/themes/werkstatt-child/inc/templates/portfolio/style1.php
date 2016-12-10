@@ -14,6 +14,7 @@
         $hover_url = $image_url;
     }
     $main_color_title = get_post_meta($id, 'main_color_title', true);
+    $main_color = get_post_meta($id, 'main_color', true);
 
     $categories = get_the_term_list( $id, 'portfolio-category', '', ', ', '' );
     if ($categories !== '') {
@@ -55,10 +56,9 @@
             <a href="<?php echo esc_url($permalink); ?>" title="<?php the_title_attribute(); ?>" class="portfolio-link" data-size="<?php echo esc_attr($image_url[1].'x'.$image_url[2]); ?>">
             </a>
         <?php } else { ?>
-            <div class="thb-placeholder" style="background-image: url(<?php echo esc_url($image_url[0]); ?>);"></div>
+            <div class="thb-placeholder" style="background-color: <?= $main_color ?>;  background-size: 70%; background-repeat: no-repeat; background-image: url(<?php echo esc_url($image_url[0]); ?>);"></div>
             <a href="<?php echo esc_url($permalink); ?>" title="<?php the_title_attribute(); ?>" class="portfolio-link" data-size="<?php echo esc_attr($image_url[1].'x'.$image_url[2]); ?>">
                 <h2><span><?php the_title(); ?></span></h2>
-                <aside class="thb-categories"><span><?php echo esc_html($categories); ?></span></aside>
             </a>
         <?php } ?>
     </div>
