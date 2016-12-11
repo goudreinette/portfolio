@@ -9,6 +9,25 @@
 
 @import url("../werkstatt/style.css");
 
-.portfolio-holder .tbh-placeholder {
-  background-size: 50%;
+
+@font-face {
+  font-family: GTWalsheim;
+  src: url('fonts/gt-walsheim-web.woff');
+}
+
+* {
+  font-family: GTWalsheim !important;
+}
+
+.portfolio-link h2 {
+  font-weight: normal;
+}
+
+
+.portfolio-attributes strong, .portfolio_nav strong {
+  text-transform: none !important;
+}
+
+.thb-portfolio-share {
+  display: none;
 }
