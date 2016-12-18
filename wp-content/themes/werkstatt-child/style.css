@@ -3,7 +3,7 @@
   Theme URI: http://themeforest.net/user/fuelthemes
   Description: <strong>A Premium theme for magazine, editor, community and more! WordPress Theme by <a href="http://www.themeforest.net/user/fuelthemes">fuelthemes</a></strong> – Update notifications available on Twitter and Themeforest <a href="http://twitter.com/anteksiler">Follow us on twitter</a> – <a href="http://themeforest.net/user/fuelthemes">Follow us on Themeforest</a>
   Version: 1.0.0
-  Author: fuelthemes
+  Author: fuelthemes`
   Template: werkstatt
 */
 
@@ -23,6 +23,9 @@
   font-weight: normal;
 }
 
+.portfolio-attributes {
+  overflow: initial;
+}
 
 .portfolio-attributes strong, .portfolio_nav strong {
   text-transform: none !important;
