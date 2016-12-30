@@ -15,8 +15,13 @@
   src: url('fonts/gt-walsheim-web.woff');
 }
 
+@font-face {
+  font-family: SourceSans;
+  src: url('fonts/SourceSansPro.ttf');
+}
+
 * {
-  font-family: GTWalsheim !important;
+  font-family: 'Source Sans Pro' !important;
 }
 
 .portfolio-link h2 {
