@@ -27,12 +27,16 @@
 /**
  * Menu
  */
+.logoimg {
+  max-height: 60px !important;
+}
 
 #menu-navigation-1  a {
   line-height: 0px;
-  height: 20px;
+  padding: 15px 0px;
 }
-#menu-navigation-1 li:hover a {
+
+#menu-navigation-1 li:hover a, #menu-navigation-1 li.current_page_item a {
   border-bottom: 2px solid black;
   color: black;
 }
@@ -40,13 +44,28 @@
 /**
  * Blog
  */
-.blog-container article, .blog-container figure.post-gallery, .blog-container .row {
-  /*background: none !important;*/
+.blog-container article,
+.blog-container figure.post-gallery,
+.blog-container .post-meta,
+.entry-title a {
+  background: none !important;
+  color: black !important;
+}
+
+.blog-container article:hover {
+  border-bottom: 1px solid #efefef !important;
+  border-top: 1px solid #efefef !important;
 }
 
 
 .blog-container .entry-title {
   font-size: 2em;
+  color: black !important;
+}
+
+.blog-container .entry-title:hover {
+  font-size: 2em;
+  text-decoration: underline;
 }
 
 .blog-container .post-content p {
