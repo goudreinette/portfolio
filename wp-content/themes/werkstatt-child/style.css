@@ -23,3 +23,37 @@
 * {
   font-family: 'Source Sans Pro' !important;
 }
+
+/**
+ * Menu
+ */
+
+#menu-navigation-1  a {
+  line-height: 0px;
+  height: 20px;
+}
+#menu-navigation-1 li:hover a {
+  border-bottom: 2px solid black;
+  color: black;
+}
+
+/**
+ * Blog
+ */
+.blog-container article, .blog-container figure.post-gallery, .blog-container .row {
+  /*background: none !important;*/
+}
+
+
+.blog-container .entry-title {
+  font-size: 2em;
+}
+
+.blog-container .post-content p {
+  font-size: 16px !important;
+}
+
+
+.blog-container .post-category, .blog-container .post-meta a  {
+  display: none;
+}
