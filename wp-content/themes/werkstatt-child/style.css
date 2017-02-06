@@ -23,19 +23,3 @@
 * {
   font-family: 'Source Sans Pro' !important;
 }
-
-.portfolio-link h2 {
-  font-weight: normal;
-}
-
-.portfolio-attributes {
-  overflow: initial;
-}
-
-.portfolio-attributes strong, .portfolio_nav strong {
-  text-transform: none !important;
-}
-
-.thb-portfolio-share {
-  display: none;
-}
