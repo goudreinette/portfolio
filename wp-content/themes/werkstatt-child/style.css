@@ -39,7 +39,7 @@ pre, pre * {
 
 pre {
   border: 1px solid #eee;
-  background: none;
+  background: rgba(240, 240, 240, 0.7) !important;
 }
 
 /**
@@ -89,7 +89,6 @@ pre {
 }
 
 .blog-container .pagination-style1 .entry-title:hover {
-  font-size: 2em;
   text-decoration: underline;
 }
 
