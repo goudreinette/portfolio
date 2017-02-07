@@ -1,7 +1,7 @@
 /*
   Theme Name: WerkStatt Child Theme
   Theme URI: http://themeforest.net/user/fuelthemes
-  Description: <strong>A Premium theme for magazine, editor, community and more! WordPress Theme by <a href="http://www.themeforest.net/user/fuelthemes">fuelthemes</a></strong> – Update notifications available on Twitter and Themeforest <a href="http://twitter.com/anteksiler">Follow us on twitter</a> – <a href="http://themeforest.net/user/fuelthemes">Follow us on Themeforest</a>
+  Description: <strong>A Premium theme for magazine, editor, community and more! WordPress Theme by <a href="http://www.themeforest.net/user/fuelthemes">fuelthemes</a></strong> â€“ Update notifications available on Twitter and Themeforest <a href="http://twitter.com/anteksiler">Follow us on twitter</a> â€“ <a href="http://themeforest.net/user/fuelthemes">Follow us on Themeforest</a>
   Version: 1.0.0
   Author: fuelthemes`
   Template: werkstatt
@@ -20,8 +20,14 @@
   src: url('fonts/SourceSansPro.ttf');
 }
 
+@font-face {
+  font-family: MarkWebPro;
+  src: url('fonts/MarkWebPro.woff');
+}
+
+
 * {
-  font-family: 'Source Sans Pro' !important;
+  font-family: 'MarkWebPro' !important;
 }
 
 /**
