@@ -28,12 +28,14 @@
  * Menu
  */
 .logoimg {
-  max-height: 25px !important;
+  max-height: 30px !important;
 }
 
 #menu-navigation-1  a {
   line-height: 0px;
   padding: 15px 0px;
+  border-bottom: 2px solid white;
+  transition: all 0.3s;
 }
 
 #menu-navigation-1 li:hover a, #menu-navigation-1 li.current_page_item a {
@@ -55,8 +57,8 @@
 .blog-container article:hover {
   border-bottom: 1px solid #efefef !important;
   border-top: 1px solid #efefef !important;
+  background-color: #f6f6f6 !important;
 }
-
 
 .blog-container .entry-title {
   font-size: 2em;
@@ -75,4 +77,19 @@
 
 .blog-container .post-category, .blog-container .post-meta a  {
   display: none;
+}
+
+/**
+ * Portfolio
+ */
+.thb-preloader .thb-preloader-icon-circle .path {
+  stroke: black;
+}
+
+figure.post-gallery.parallax {
+  display: none !important;
+}
+
+header.portfolio-title {
+  padding-top: 150px !important;
 }
