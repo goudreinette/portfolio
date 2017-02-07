@@ -10,6 +10,9 @@
 @import url("../werkstatt/style.css");
 
 
+/**
+ * Fonts
+ */
 @font-face {
   font-family: GTWalsheim;
   src: url('fonts/gt-walsheim-web.woff');
@@ -28,6 +31,10 @@
 
 * {
   font-family: 'MarkWebPro' !important;
+}
+
+code, code * {
+  font-family: Fira Code !important;
 }
 
 /**
