@@ -33,8 +33,13 @@
   font-family: 'MarkWebPro' !important;
 }
 
-code, code * {
+pre, pre * {
   font-family: Fira Code !important;
+}
+
+pre {
+  border: 1px solid #eee;
+  background: none;
 }
 
 /**
