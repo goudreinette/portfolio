@@ -61,6 +61,10 @@ pre {
   color: black;
 }
 
+header.style1.menu_style2 {
+  background-color: white !important;
+}
+
 /**
  * Blog
  */
