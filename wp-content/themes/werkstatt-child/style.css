@@ -123,3 +123,7 @@ figure.post-gallery.parallax {
 header.portfolio-title {
   padding-top: 150px !important;
 }
+
+.vc_images_carousel img {
+  border: 1px solid #eee;
+}
